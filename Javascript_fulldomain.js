@@ -1374,5 +1374,5 @@
 // let cllgstudent=new College("malathi",24,"third")
 //  cllgstudent.info()
 
-let fn=new Function("name","age","return `I am ${name} and my age is ${age}`")
-console.log(fn("nangopan","25"))
+// let fn=new Function("name","age","return `I am ${name} and my age is ${age}`")
+// console.log(fn("nangopan","25"))
